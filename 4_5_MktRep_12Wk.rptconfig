@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.22" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__MarketingRep_204_0</property>
+            <property name="value">%</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__BranchGroup_299_1</property>
+            <property name="value">100</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__InvoiceStatus_328_2</property>
+            <property name="value">ALL</property>
+        </structure>
+        <structure>
+            <property name="name">MarketingRep_204_3</property>
+            <property name="value">%</property>
+        </structure>
+        <structure>
+            <property name="name">MarketingRep_204_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">BranchGroup_299_4</property>
+            <property name="value">100</property>
+        </structure>
+        <structure>
+            <property name="name">BranchGroup_299_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">InvoiceStatus_328_5</property>
+            <property name="value">ALL</property>
+        </structure>
+        <structure>
+            <property name="name">InvoiceStatus_328_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>
